@@ -9,7 +9,8 @@ You can access the repositories by clicking on the project title :)
 ## My Projects
 | Project | Description | Languages & Tools | Dates |
 |---------|-------------|-------------------|-------|
-| Row 2    | Data 3   | Data 4   |
+|[Firearm Incidence Analysis](https://github.com/caralifarrell/Firearm-Incidence-Analysis) 🚨|Data science project in R analyzing gun violence trends and predicting incident severity.|R, RStudio|December 2023|
+|[Kickstarter ML Models](https://github.com/caralifarrell/Kickstarter-ML-Models) 🚀|Analysis of a Kickstarter dataset to generate insights and apply data mining techniques like clustering and classification.|Python, Pandas, Sklearn, Matplotlib|November 2023 - December 2023|
 
 
 ## Online Courses
