@@ -9,7 +9,7 @@ You can access the repositories by clicking on the project title :)
 ## My Projects
 | Project | Description | Languages & Tools | Dates |
 |---------|-------------|-------------------|-------|
-|[EY Open Science Data Challenge](https://github.com/caralifarrell/EY-Open-Science-Data-Challenge) 🌀|The 2024 challenge is focused on helping coastal communities become more resilient to the effects of climate change. Participants will use AI for good and help solve societal and environmental problems through technology.|TBD|February 2024 - Present|
+|[EY Open Science Data Challenge](https://github.com/caralifarrell/EY-Open-Science-Data-Challenge) 🌀|The 2024 challenge is focused on helping coastal communities become more resilient to the effects of climate change. Participants will use AI for good and help solve societal and environmental problems through technology.|Python|February 2024 - Present|
 |[Firearm Incidence Analysis](https://github.com/caralifarrell/Firearm-Incidence-Analysis) 🚨|Data science project in R analyzing gun violence trends and predicting incident severity.|R, RStudio|December 2023|
 |[Kickstarter ML Models](https://github.com/caralifarrell/Kickstarter-ML-Models) 🚀|Analysis of a Kickstarter dataset to generate insights and apply data mining techniques like clustering and classification.|Python, Pandas, Sklearn, Matplotlib|November 2023 - December 2023|
 |[UnicornVis: Visualizing Venture Capital Unicorns](https://github.com/caralifarrell/UnicornVis-Visualizing-Venture-Capital-Unicorns) 🦄|Exploratory data visualization project to learn basics of Tableau.|Python, Pandas, Jupyter notebook, Tableau|April 2023 - May 2023|
