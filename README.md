@@ -18,6 +18,7 @@ You can access the repositories by clicking on the project title :)
 ## Online Courses
 | Course | Description | Languages & Tools | Dates |
 |--------|-------------|-------------------|-------|
+|[Deep Learning A-Z 2024: Neural Networks, AI & ChatGPT Prize](https://github.com/caralifarrell/Deep-Learning-A-Z-2024-Neural-Networks-AI-ChatGPT-Prize) 🧬|A course to learn how to develop Deep Learning models in Python.|Python, TensorFlow, PyTorch|February 2023 - Present|
 |[Python Mega Course: Learn Python in 60 Days, Build 20 Apps](https://github.com/caralifarrell/Python-Mega-Course-Learn-Python-in-60-Days-Build-20-Apps) 💻|A course to develop Python skills and build 20 real-world applications from web development to data science.|Python|February 2023 - Present|
 |[Machine Learning Practical: 6 Real World Applications](https://github.com/caralifarrell/Machine-Learning-Practical-6-Real-World-Applications) 🧠|6 hands-on applications of ML in various fields.|Python, Pandas, Numpy, Matplotlib, Seaborn|August 2023 - Present|
 |[Python Applications in Finance](https://github.com/caralifarrell/Python-Applications-in-Finance/blob/main/README.md) 💰|Designed to learn more about how Python can be used in finance and explore topics I am curious about.|Python, YahooFinance API|July 2023|
