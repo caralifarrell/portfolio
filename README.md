@@ -23,3 +23,10 @@ You can access the repositories by clicking on the project title :)
 |[The Complete SQL Bootcamp](https://github.com/caralifarrell/The-Complete-SQL-Bootcamp-Go-from-Zero-to-Hero) 📊|Teaches advanced database querying with PostgreSQL, applicable across major SQL platforms like MySQL, SQL Server, and more.|SQL, Postgresql|July 2023|
 |[Beginner Machine Learning in Python](https://github.com/caralifarrell/Beginner-Machine-Learning-in-Python-ChatGPT-Bonus-2023) 🤖|Builds a solid foundation in Machine Learning using various tools such as Linear Regression, Logistic Regression and K-Means Clustering in Python.|Python, Pandas, Sklearn, Matplotlib|April 2023 - May 2023|
 |[Data Science Portfolio](https://github.com/caralifarrell/caralifarrell.github.io) 🔍|A website to host my projects while learning HTML and CSS (not currently in use).|VSCode, Python, HTML, CSS, JavaScript|January 2023 - March 2023|
+
+## Online Certifications
+| Certification | Issuer | Date of Issuance | Language |
+|---------------|--------|------------------|----------|
+|[The Complete SQL Bootcamp](https://www.udemy.com/certificate/UC-8208d12b-c0ae-4b57-b881-b200630bf070/)|Udemy|July 2023|SQL|
+|[Beginner Machine Learning in Python](https://www.udemy.com/certificate/UC-630f29d7-9e0e-416a-9404-711893eb5759/)|Udemy|May 2023|Python|
+|[Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/374dd2f247ea61f0a6557e5db79ae8fc44478b0d)|Datacamp|May 2022|Python|
