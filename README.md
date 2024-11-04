@@ -27,6 +27,9 @@ You can access the repositories by clicking on the project title :)
 ## Online Certifications
 | Certification | Issuer | Date of Issuance | Language |
 |---------------|--------|------------------|----------|
+|[ ChatGPT: Complete ChatGPT Course For Work 2023 (Ethically)!](https://eylearning.udemy.com/certificate/UC-15c4a79f-d6ff-414a-8486-31ce2e5c143a/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)|Udemy|October 2024|NA|
+|[Introduction to Cloud Computing](https://eylearning.udemy.com/certificate/UC-c703bf3f-2ef4-4e75-9140-290a8984e5ae/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)|Udemy|October 2024|NA|
+|[Project Management Essentials](https://eylearning.udemy.com/certificate/UC-cdf7997a-4d26-41f5-a4ed-146770313232/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)|Udemy|October 2024|NA|
 |[The Complete SQL Bootcamp](https://www.udemy.com/certificate/UC-8208d12b-c0ae-4b57-b881-b200630bf070/)|Udemy|July 2023|SQL|
 |[Beginner Machine Learning in Python](https://www.udemy.com/certificate/UC-630f29d7-9e0e-416a-9404-711893eb5759/)|Udemy|May 2023|Python|
 |[Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/374dd2f247ea61f0a6557e5db79ae8fc44478b0d)|Datacamp|May 2022|Python|
