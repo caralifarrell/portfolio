@@ -9,7 +9,6 @@ You can access the repositories by clicking on the project title :)
 ## My Projects
 | Project | Description | Languages & Tools | Dates |
 |---------|-------------|-------------------|-------|
-|[Responsive Web Design Projects](https://github.com/caralifarrell/Responsive-Web-Design-Projects) 💻|A repository for all the projects completed while following the Responsive Web Design Certification by Free Code Camp.|HMTL, CSS, Flexbox|February 2025 - Present|
 |[Dine & Discovery: A Database Management System](https://github.com/caralifarrell/Dine-and-Discover-DBMS) 🍽️|Restaurant review platform that enhances the dining experience by allowing users to track their restaurant visits, share reviews, and make reservations, while fostering a community focused on exploring local culinary options.|SQL|March 2024 - April 2024|
 |[Firearm Incidence Analysis](https://github.com/caralifarrell/Firearm-Incidence-Analysis) 🚨|Data science project in R analyzing gun violence trends and predicting incident severity.|R, RStudio|December 2023|
 |[Kickstarter ML Models](https://github.com/caralifarrell/Kickstarter-ML-Models) 🚀|Analysis of a Kickstarter dataset to generate insights and apply data mining techniques like clustering and classification.|Python, Pandas, Sklearn, Matplotlib|November 2023 - December 2023|
@@ -19,6 +18,7 @@ You can access the repositories by clicking on the project title :)
 ## Online Courses
 | Course | Description | Languages & Tools | Dates |
 |--------|-------------|-------------------|-------|
+|[Responsive Web Design Projects](https://github.com/caralifarrell/Responsive-Web-Design-Projects) 💻|A repository for all the projects completed while following the Responsive Web Design Certification by Free Code Camp.|HMTL, CSS, Flexbox|February 2025 - Present|
 |[Python Applications in Finance](https://github.com/caralifarrell/Python-Applications-in-Finance/blob/main/README.md) 💰|Designed to learn more about how Python can be used in finance and explore topics I am curious about.|Python, YahooFinance API|July 2023|
 |[The Complete SQL Bootcamp](https://github.com/caralifarrell/The-Complete-SQL-Bootcamp-Go-from-Zero-to-Hero) 📊|Teaches advanced database querying with PostgreSQL, applicable across major SQL platforms like MySQL, SQL Server, and more.|SQL, Postgresql|July 2023|
 |[Beginner Machine Learning in Python](https://github.com/caralifarrell/Beginner-Machine-Learning-in-Python-ChatGPT-Bonus-2023) 🤖|Builds a solid foundation in Machine Learning using various tools such as Linear Regression, Logistic Regression and K-Means Clustering in Python.|Python, Pandas, Sklearn, Matplotlib|April 2023 - May 2023|
