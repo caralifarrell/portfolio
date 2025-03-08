@@ -18,6 +18,7 @@ You can access the repositories by clicking on the project title :)
 ## Online Courses
 | Course | Description | Languages & Tools | Dates |
 |--------|-------------|-------------------|-------|
+|[BankSphere: A Banking App with a Finance Management Dashboard](https://github.com/caralifarrell/BankSphere-A-Banking-App-with-Finance-Management-Dashboard) 💳|Exploratory personal project to learn the end-to-end process of building and deploying a banking app, from connecting multiple bank accounts to implementing real-time transaction displays and secure money transfers.|Next.js 14|March 2025 - Present|
 |[Responsive Web Design Projects](https://github.com/caralifarrell/Responsive-Web-Design-Projects) 💻|A repository for all the projects completed while following the Responsive Web Design Certification by Free Code Camp.|HMTL, CSS, Flexbox|February 2025 - Present|
 |[Python Applications in Finance](https://github.com/caralifarrell/Python-Applications-in-Finance/blob/main/README.md) 💰|Designed to learn more about how Python can be used in finance and explore topics I am curious about.|Python, YahooFinance API|July 2023|
 |[The Complete SQL Bootcamp](https://github.com/caralifarrell/The-Complete-SQL-Bootcamp-Go-from-Zero-to-Hero) 📊|Teaches advanced database querying with PostgreSQL, applicable across major SQL platforms like MySQL, SQL Server, and more.|SQL, Postgresql|July 2023|
