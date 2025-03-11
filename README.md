@@ -9,7 +9,6 @@ You can access the repositories by clicking on the project title :)
 ## My Projects
 | Project | Description | Languages & Tools | Dates |
 |---------|-------------|-------------------|-------|
-|[BankSphere: A Banking App with a Finance Management Dashboard](https://github.com/caralifarrell/BankSphere-A-Banking-App-with-Finance-Management-Dashboard) 💳|Exploratory personal project to learn the end-to-end process of building and deploying a banking app, from connecting multiple bank accounts to implementing real-time transaction displays and secure money transfers.|Next.js 14|Not Started|
 |[Dine & Discovery: A Database Management System](https://github.com/caralifarrell/Dine-and-Discover-DBMS) 🍽️|Restaurant review platform that enhances the dining experience by allowing users to track their restaurant visits, share reviews, and make reservations, while fostering a community focused on exploring local culinary options.|SQL|March 2024 - April 2024|
 |[Firearm Incidence Analysis](https://github.com/caralifarrell/Firearm-Incidence-Analysis) 🚨|Data science project in R analyzing gun violence trends and predicting incident severity.|R, RStudio|December 2023|
 |[Kickstarter ML Models](https://github.com/caralifarrell/Kickstarter-ML-Models) 🚀|Analysis of a Kickstarter dataset to generate insights and apply data mining techniques like clustering and classification.|Python, Pandas, Sklearn, Matplotlib|November 2023 - December 2023|
