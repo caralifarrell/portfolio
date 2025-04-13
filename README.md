@@ -20,7 +20,7 @@ You can access the repositories by clicking on the project title :)
 ## Online Courses
 | Course | Description | Languages & Tools | Dates |
 |--------|-------------|-------------------|-------|
-|[iOS & Swift - The Complete iOS App Development Bootcamp](https://github.com/caralifarrell/Responsive-Web-Design-Projects) 📱|Teches the basics of iOS development.|Swift|April 2025 - Present|
+|[iOS & Swift - The Complete iOS App Development Bootcamp]([https://github.com/caralifarrell/Responsive-Web-Design-Projects](https://github.com/caralifarrell/The-Complete-iOS-App-Development-Bootcamp) 📱|Teches the basics of iOS development.|Swift|April 2025 - Present|
 |[Responsive Web Design Projects](https://github.com/caralifarrell/Responsive-Web-Design-Projects) 💻|A repository for all the projects completed while following the Responsive Web Design Certification by Free Code Camp.|HMTL, CSS, Flexbox|February 2025 - Present|
 |[The Complete SQL Bootcamp](https://github.com/caralifarrell/The-Complete-SQL-Bootcamp-Go-from-Zero-to-Hero) 📊|Teaches advanced database querying with PostgreSQL, applicable across major SQL platforms like MySQL, SQL Server, and more.|SQL, Postgresql|July 2023|
 |[Beginner Machine Learning in Python](https://github.com/caralifarrell/Beginner-Machine-Learning-in-Python-ChatGPT-Bonus-2023) 🤖|Builds a solid foundation in Machine Learning using various tools such as Linear Regression, Logistic Regression and K-Means Clustering in Python.|Python, Pandas, Sklearn, Matplotlib|April 2023 - May 2023|
