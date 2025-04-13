@@ -20,7 +20,7 @@ You can access the repositories by clicking on the project title :)
 ## Online Courses
 | Course | Description | Languages & Tools | Dates |
 |--------|-------------|-------------------|-------|
-|[iOS & Swift - The Complete iOS App Development Bootcamp]([https://github.com/caralifarrell/Responsive-Web-Design-Projects](https://github.com/caralifarrell/The-Complete-iOS-App-Development-Bootcamp) 📱|Teches the basics of iOS development.|Swift|April 2025 - Present|
+|[iOS & Swift - The Complete iOS App Development Bootcamp](https://github.com/caralifarrell/The-Complete-iOS-App-Development-Bootcamp) 📱|Teches the basics of iOS development.|Swift|April 2025 - Present|
 |[Responsive Web Design Projects](https://github.com/caralifarrell/Responsive-Web-Design-Projects) 💻|A repository for all the projects completed while following the Responsive Web Design Certification by Free Code Camp.|HMTL, CSS, Flexbox|February 2025 - Present|
 |[The Complete SQL Bootcamp](https://github.com/caralifarrell/The-Complete-SQL-Bootcamp-Go-from-Zero-to-Hero) 📊|Teaches advanced database querying with PostgreSQL, applicable across major SQL platforms like MySQL, SQL Server, and more.|SQL, Postgresql|July 2023|
 |[Beginner Machine Learning in Python](https://github.com/caralifarrell/Beginner-Machine-Learning-in-Python-ChatGPT-Bonus-2023) 🤖|Builds a solid foundation in Machine Learning using various tools such as Linear Regression, Logistic Regression and K-Means Clustering in Python.|Python, Pandas, Sklearn, Matplotlib|April 2023 - May 2023|
@@ -28,7 +28,7 @@ You can access the repositories by clicking on the project title :)
 ## Online Certifications
 | Certification | Issuer | Date of Issuance | Language |
 |---------------|--------|------------------|----------|
-|[ ChatGPT: Complete ChatGPT Course For Work 2023 (Ethically)!](https://eylearning.udemy.com/certificate/UC-15c4a79f-d6ff-414a-8486-31ce2e5c143a/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)|Udemy|October 2024|NA|
+|[ChatGPT: Complete ChatGPT Course For Work 2023 (Ethically)!](https://eylearning.udemy.com/certificate/UC-15c4a79f-d6ff-414a-8486-31ce2e5c143a/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)|Udemy|October 2024|NA|
 |[Introduction to Cloud Computing](https://eylearning.udemy.com/certificate/UC-c703bf3f-2ef4-4e75-9140-290a8984e5ae/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)|Udemy|October 2024|NA|
 |[Project Management Essentials](https://eylearning.udemy.com/certificate/UC-cdf7997a-4d26-41f5-a4ed-146770313232/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)|Udemy|October 2024|NA|
 |[The Complete SQL Bootcamp](https://www.udemy.com/certificate/UC-8208d12b-c0ae-4b57-b881-b200630bf070/)|Udemy|July 2023|SQL|
